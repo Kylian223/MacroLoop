@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClickerV2/1.0.0": {
+        "dependencies": {
+          "GregsStack.InputSimulatorStandard": "1.1.1"
+        },
+        "runtime": {
+          "ClickerV2.dll": {}
+        }
+      },
+      "GregsStack.InputSimulatorStandard/1.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/GregsStack.InputSimulatorStandard.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClickerV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GregsStack.InputSimulatorStandard/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RTE+TycnY+ItWv2wtLIgc+jSBWAcCtfq2Bt6AlpSunIfOqbfUXECApqxP002q4ktCYNkgEb2hMerpoyVZIlOWA==",
+      "path": "gregsstack.inputsimulatorstandard/1.1.1",
+      "hashPath": "gregsstack.inputsimulatorstandard.1.1.1.nupkg.sha512"
+    }
+  }
+}

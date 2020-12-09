@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kylia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kylia\\.nuget\\packages"
+    ]
+  }
+}
